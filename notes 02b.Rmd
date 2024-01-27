@@ -1,5 +1,5 @@
 ---
-title: "notes 2b"
+title: "notes 02b"
 output: html_document
 date: "2024-01-27"
 ---
@@ -9,12 +9,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
-This is an R markdown document
-# Markwon
-I am happy to learn R
+
+This is my second attemt in Rmarkdown. R markdown is easy way of creating pdf using code
+
+# Markdown
+Lets code multiplication using Rmarkdown
 
 ```{r}
-8* 10
+8*10
 ```
-
-
